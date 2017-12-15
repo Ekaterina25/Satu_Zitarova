@@ -105,9 +105,6 @@ void draw() {
     }
 }
 
-void keyPressed() {
-    isAnimate = !isAnimate;
-}
 
 void more() {
     fill(0);
